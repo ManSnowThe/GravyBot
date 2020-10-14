@@ -1,0 +1,1447 @@
+fileFormatVersion: 2
+guid: 47098b3652261bf47aeb0d6a907566c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5564309687621817742
+    second: nCharIdle1
+  - first:
+      213: 81854637769802708
+    second: nCharIdle2
+  - first:
+      213: 737427545982768007
+    second: nCharRun1
+  - first:
+      213: 8016444338694565284
+    second: nCharRun2
+  - first:
+      213: -3071972997586865529
+    second: nCharRun3
+  - first:
+      213: 4504174488640973374
+    second: nCharRun4
+  - first:
+      213: 8910284227018131571
+    second: nCharRun5
+  - first:
+      213: -1660240735158280698
+    second: nCharRun6
+  - first:
+      213: -3841867787815722970
+    second: nCharIdleOr1
+  - first:
+      213: 4551348677687733602
+    second: nCharIdleOr2
+  - first:
+      213: -2930924840842336618
+    second: nCharRunOr1
+  - first:
+      213: -1734018639529533692
+    second: nCharRunOr2
+  - first:
+      213: -853296864280320008
+    second: nCharRunOr3
+  - first:
+      213: 6418636709813382936
+    second: nCharRunOr4
+  - first:
+      213: -7276118707558351776
+    second: nCharRunOr5
+  - first:
+      213: -1832926612756964743
+    second: nCharRunOr6
+  - first:
+      213: -4010521629902831660
+    second: nCharGrav1
+  - first:
+      213: 4411177839838237487
+    second: nCharGrav2
+  - first:
+      213: 2619586996958569306
+    second: nCharGrav3
+  - first:
+      213: -2183471748355628196
+    second: nCharGrav4
+  - first:
+      213: 3039440637010536808
+    second: nCharGravOr1
+  - first:
+      213: 8617402829809451402
+    second: nCharGravOr2
+  - first:
+      213: -4256683439642654269
+    second: nCharGravOr3
+  - first:
+      213: -5749395395700862306
+    second: nCharGravOr4
+  - first:
+      213: 5564309687621817742
+    second: nCharGunIdle1
+  - first:
+      213: 81854637769802708
+    second: nCharGunIdle2
+  - first:
+      213: 737427545982768007
+    second: nCharShoot1
+  - first:
+      213: 8016444338694565284
+    second: nCharShoot2
+  - first:
+      213: -3071972997586865529
+    second: nCharShoot3
+  - first:
+      213: 4504174488640973374
+    second: nCharRunGun1
+  - first:
+      213: 8910284227018131571
+    second: nCharRunGun2
+  - first:
+      213: -1660240735158280698
+    second: nCharRunGun3
+  - first:
+      213: 1075564377042241560
+    second: nCharRunGun4
+  - first:
+      213: 514802404303591331
+    second: nCharRunGun5
+  - first:
+      213: -1902564663579344648
+    second: nCharRunGun6
+  - first:
+      213: 1778012507527523869
+    second: nCharRunShoot1
+  - first:
+      213: 2185599909549129159
+    second: nCharRunShoot2
+  - first:
+      213: 1955871689353509501
+    second: nCharRunShoot3
+  - first:
+      213: 3676916565652663534
+    second: nCharRunShoot4
+  - first:
+      213: -6906599415904796586
+    second: nCharRunShoot5
+  - first:
+      213: -8668200295301917706
+    second: nCharRunShoot6
+  - first:
+      213: -4492344659684181323
+    second: nCharGravGun1
+  - first:
+      213: 3779361013927815100
+    second: nCharGravGun2
+  - first:
+      213: 7957522649489287092
+    second: nCharGravGun3
+  - first:
+      213: -7060851149229553036
+    second: nCharGravGun4
+  - first:
+      213: -6692543102662105168
+    second: nCharGravShoot1
+  - first:
+      213: -3188120836862090074
+    second: nCharGravShoot2
+  - first:
+      213: 6483625021542689856
+    second: nCharGravShoot3
+  - first:
+      213: -5243007279958369666
+    second: nCharGravShoot4
+  - first:
+      213: -1117440096741542357
+    second: nCharGravShoot5
+  - first:
+      213: -785792083721807124
+    second: nCharDeath1
+  - first:
+      213: 3614083015717015532
+    second: nCharDeath2
+  - first:
+      213: 4431627626888791373
+    second: nCharDeath3
+  - first:
+      213: 5315947319506720899
+    second: nCharDeath4
+  - first:
+      213: 4620389061324021138
+    second: nCharDeath5
+  - first:
+      213: -4457998224290801028
+    second: nCharDeath6
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nCharIdle1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01296da905c029a45bb083e1890d4f46
+      internalID: 5564309687621817742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharIdle2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 348
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb057079c8572e4596ac1b399afbcbc
+      internalID: 81854637769802708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharRun1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be0f33256ccd8d448cf95428851fd11
+      internalID: 737427545982768007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharRun2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 300
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f89322cb8231824fb462002207dc4c6
+      internalID: 8016444338694565284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharRun3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 300
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7b660933d91184cb9947b8e8816dc4
+      internalID: -3071972997586865529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharRun4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 300
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e14ebdb490a4c4189746448a1e3b58
+      internalID: 4504174488640973374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharRun5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 300
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66ff1b7cb3463542a2a8cbb26cf6663
+      internalID: 8910284227018131571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharRun6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 300
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20be06b907505f149b1aba4068a991ca
+      internalID: -1660240735158280698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharIdleOr1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 348
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f64ab4fe2aa8a4885c3429c04f44a4
+      internalID: -3841867787815722970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharIdleOr2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 348
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894878a3d6f1ee748a8043d86bd05950
+      internalID: 4551348677687733602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharRunOr1
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 300
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525f36fd9585b2440b56b26924d44940
+      internalID: -2930924840842336618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharRunOr2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 300
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cf144c73e99c04389bf90285c2d4ec
+      internalID: -1734018639529533692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharRunOr3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 300
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f535892cdc64e44f826a0d3dd66b6f5
+      internalID: -853296864280320008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharRunOr4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 300
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb71f62378b9cfc4ba0089fd1d1b77d7
+      internalID: 6418636709813382936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharRunOr5
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 300
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd419085e4d8bbd4b8045b77526e6b74
+      internalID: -7276118707558351776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharRunOr6
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 300
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d2cae2858a52b4d8e215a599fadcef
+      internalID: -1832926612756964743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharGrav1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89f65c5661abd44dabe5f04e23f7ae7
+      internalID: -4010521629902831660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharGrav2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 244
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b81b109ea7189478019a7e8815fda6
+      internalID: 4411177839838237487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharGrav3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 244
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab540f96a0de8ec458b8e9247ecc431b
+      internalID: 2619586996958569306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharGrav4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 244
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d898ac630e6df4d4fa49fb35fac94ff3
+      internalID: -2183471748355628196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharGravOr1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 244
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e614a6fc619ca47b8c0fe9134928a8
+      internalID: 3039440637010536808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharGravOr2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 244
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26ab729254215e439df26e644500353
+      internalID: 8617402829809451402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharGravOr3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 244
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9391301ed389dbb488ca8d9a374040a7
+      internalID: -4256683439642654269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharGravOr4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 244
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfef1828b328f744997ba4081a30a606
+      internalID: -5749395395700862306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharGunIdle1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9f08d5d19840046be245b6020456a5
+      internalID: 5564309687621817742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharGunIdle2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 196
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef60fe9863f6554a8231366cee2e09e
+      internalID: 81854637769802708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharShoot1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed8837e907d21a41afc2e6401e60830
+      internalID: 737427545982768007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharShoot2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 148
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1764fcd1d1485a746906e4fc0d477b04
+      internalID: 8016444338694565284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharShoot3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 148
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79c1ce8a535be943aa563d1a49f1455
+      internalID: -3071972997586865529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharRunGun1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526624ecd18e8b04591b061b18cfb634
+      internalID: 4504174488640973374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharRunGun2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 100
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c583c570b6abe43a1d4cd2eb7807a0
+      internalID: 8910284227018131571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharRunGun3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 100
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfda17f8d4b1c649a8ab70a30616850
+      internalID: -1660240735158280698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharRunGun4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 100
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3e8b1bf6b3c4d4b9b3f626d3c3671a
+      internalID: 1075564377042241560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharRunGun5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 100
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70f1d7d86c52d0498d04856def9cae0
+      internalID: 514802404303591331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharRunGun6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 100
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb6e9ee63481d5449e3c8adf61df55e
+      internalID: -1902564663579344648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharRunShoot1
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 100
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db458fcbc9deb52409dc09f893ffd78a
+      internalID: 1778012507527523869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharRunShoot2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 100
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d73dcd2b77a9f489bdaf832bc299b4
+      internalID: 2185599909549129159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharRunShoot3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 100
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5b8951f6a7d534d918cd94802f7fb6
+      internalID: 1955871689353509501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharRunShoot4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 100
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375f4fe2f606c544f914173c73844131
+      internalID: 3676916565652663534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharRunShoot5
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 100
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876c75421b5e93f40bdebd2999209c5b
+      internalID: -6906599415904796586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharRunShoot6
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 100
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344658e8c20abe04f9ae175656768af9
+      internalID: -8668200295301917706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharGravGun1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95efb6bac3490ac4b96d34130a583295
+      internalID: -4492344659684181323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharGravGun2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 52
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a4444a7af906646b2375541c559309
+      internalID: 3779361013927815100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharGravGun3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 52
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb10433e19b6cf740a930f59f90db100
+      internalID: 7957522649489287092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharGravGun4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 52
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15187150e78386f469f42b35ddd6628d
+      internalID: -7060851149229553036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharGravShoot1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 52
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3453168f916473f4a8ee5ce4c9012dfa
+      internalID: -6692543102662105168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharGravShoot2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 52
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7a85c8796cdae4191a355b40bbe79e
+      internalID: -3188120836862090074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharGravShoot3
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 52
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ed2b18d2aea6c4a848610af995c425
+      internalID: 6483625021542689856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharGravShoot4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 52
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba01178030447d4a96621258113aaa8
+      internalID: -5243007279958369666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharGravShoot5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 52
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48373e3c58af9444886ad1da0d3fcce
+      internalID: -1117440096741542357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharDeath1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2e8b8519050b44fa97a8404b0995de
+      internalID: -785792083721807124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharDeath2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 4
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5946bb4f45161d5479d74e25c13722d0
+      internalID: 3614083015717015532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharDeath3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 4
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d59d96e33e8714687d5049002d8056
+      internalID: 4431627626888791373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharDeath4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 4
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12da611ace6c53545850000702e7833c
+      internalID: 5315947319506720899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharDeath5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 4
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1acff6ac23cf94b81a31e99831a90a
+      internalID: 4620389061324021138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nCharDeath6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 4
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3eb4a06241e904994d33e92fa0f3f9
+      internalID: -4457998224290801028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
