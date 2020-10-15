@@ -198,7 +198,7 @@ public class CharacterMovement : MonoBehaviour
 
     public IEnumerator Died()
     {
-        anim.Play("newCharDeath");
+        anim.Play("chDeath");
 
         yield return new WaitForSeconds(0.5f);
         Disable();

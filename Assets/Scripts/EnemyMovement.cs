@@ -35,6 +35,8 @@ public class EnemyMovement : MonoBehaviour
     public float speed = 2.0f;
     private Vector2 pos;
 
+    private ParticleSystem Ps;
+
     private void Awake()
     {
         attackTrigger.enabled = false;
@@ -45,6 +47,7 @@ public class EnemyMovement : MonoBehaviour
     {
         Anim = GetComponent<Animator>();
         _rig = GetComponent<Rigidbody2D>();
+        Ps = GetComponentInChildren<ParticleSystem>();
 
         cm = GameObject.FindGameObjectWithTag("Player").GetComponent<CharacterMovement>();
     }
@@ -162,6 +165,7 @@ public class EnemyMovement : MonoBehaviour
     {
         damaged = true;
         Anim.Play("en1Damage");
+        Ps.Play();
         yield return new WaitForSeconds(0.01f);
         damaged = false;
     }
